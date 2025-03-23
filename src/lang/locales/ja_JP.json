@@ -1,6 +1,31 @@
 {
     "home": "ホームページ",
     
+    "sidenav.main": "基本",
+	"sidenav.main.dashboard": "ダッシュボード",
+	"sidenav.main.catalog": "カタログ",
+	"sidenav.main.catalog.productList": "品",
+	"sidenav.main.catalog.categories": "カテゴリー",
+	"sidenav.main.catalog.collections": "コレクション",
+	"sidenav.main.catalog.combo": "コンボ",
+	"sidenav.main.orders": "注文",
+	"sidenav.main.clients": "クライアント",
+	"sidenav.main.clients.clientList": "顧客リスト",
+	"sidenav.main.clients.clientGroup": "クライアントグループ",
+	"sidenav.main.banners": "バナー",
+	"sidenav.main.promo": "プロモーションコード",
+	"sidenav.main.offlinePoints": "オフラインポイント",
+	"sidenav.main.offlinePoints.addresses": "住所",
+	"sidenav.main.offlinePoints.geofences": "ジオフェンス",
+	"sidenav.main.employees": "従業員",
+	"sidenav.main.mail": "ニュースレター",
+
+	"sidenav.system": "システム",
+	"sidenav.system.setting": "設定",
+	"sidenav.system.mobileApp": "モバイルアプリケーション",
+	"sidenav.system.changelogs": "ログ",
+
+
     "sidenav.dashboard": "ダッシュボード",
     "sidenav.dashboard.default": "既定",
     "sidenav.dashboard.analytic": "分析",

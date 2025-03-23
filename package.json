@@ -2,14 +2,17 @@
   "name": "emilus",
   "version": "2.0.1",
   "private": true,
+  "homepage": "https://atcherdsd.github.io/dashboard-plan",
   "dependencies": {
+    "@babel/core": "^7.26.10",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "@vx/pattern": "0.0.199",
-    "antd": "^4.10.0",
+    "antd": "^4.10.3",
     "apexcharts": "^3.23.0",
     "axios": "^0.21.0",
+    "babel-preset-react-app": "^10.1.0",
     "chart.js": "^2.9.4",
     "concurrently": "^5.3.0",
     "d3-fetch": "^2.0.0",
@@ -63,6 +66,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build",
     "dev": "concurrently \"npm run start\" \"gulp watch\""
   },
   "eslintConfig": {
@@ -85,6 +89,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.4",
+    "gh-pages": "^6.3.0",
     "gulp": "^4.0.2",
     "gulp-csso": "^4.0.1",
     "gulp-debug": "^4.0.0",
