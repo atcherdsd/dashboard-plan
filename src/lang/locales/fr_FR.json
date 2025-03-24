@@ -3,6 +3,7 @@
 
     "sidenav.main": "Essentiels",
 	"sidenav.main.dashboard": "Tableau de bord",
+    "sidenav.main.spacePlanner": "Planificateur d'espace",
 	"sidenav.main.catalog": "Catalogue",
 	"sidenav.main.catalog.productList": "Marchandises",
 	"sidenav.main.catalog.categories": "Categories",

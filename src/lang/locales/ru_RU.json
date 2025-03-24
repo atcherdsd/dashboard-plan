@@ -3,6 +3,7 @@
 
 	"sidenav.main": "Основные",
 	"sidenav.main.dashboard": "Дашборд",
+	"sidenav.main.spacePlanner": "Планировщик",
 	"sidenav.main.catalog": "Каталог",
 	"sidenav.main.catalog.productList": "Товары",
 	"sidenav.main.catalog.categories": "Категории",

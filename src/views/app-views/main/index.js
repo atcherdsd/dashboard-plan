@@ -6,6 +6,7 @@ const Main = ({ match }) => (
   <Suspense fallback={<Loading cover="content"/>}>
     <Switch>
       <Route path={`${match.url}/dashboard`} component={lazy(() => import(`./dashboard`))} />
+      <Route path={`${match.url}/space-planner`} component={lazy(() => import(`./space-planner`))} />
       <Route path={`${match.url}/catalog`} component={lazy(() => import(`./catalog`))} />
       <Route path={`${match.url}/orders`} component={lazy(() => import(`./orders`))} />
       <Route path={`${match.url}/clients`} component={lazy(() => import(`./clients`))} />

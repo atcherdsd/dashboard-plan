@@ -3,6 +3,7 @@
 
 	"sidenav.main": "Main",
 	"sidenav.main.dashboard": "Dashboard",
+	"sidenav.main.spacePlanner": "Space Planner",
 	"sidenav.main.catalog": "Catalog",
 	"sidenav.main.catalog.productList": "Product list",
 	"sidenav.main.catalog.categories": "Categories",

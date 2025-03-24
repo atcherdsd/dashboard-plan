@@ -3,6 +3,7 @@
 
     "sidenav.main": "基本的",
 	"sidenav.main.dashboard": "仪表板",
+    "sidenav.main.spacePlanner": "空间规划师",
 	"sidenav.main.catalog": "目录",
 	"sidenav.main.catalog.productList": "商品",
 	"sidenav.main.catalog.categories": "类别",

@@ -3,6 +3,7 @@
     
     "sidenav.main": "基本",
 	"sidenav.main.dashboard": "ダッシュボード",
+	"sidenav.main.spacePlanner": "スペースプランナー",
 	"sidenav.main.catalog": "カタログ",
 	"sidenav.main.catalog.productList": "品",
 	"sidenav.main.catalog.categories": "カテゴリー",
